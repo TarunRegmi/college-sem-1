@@ -1,1 +1,1 @@
-# college-sem-1
+# COLLEGE SEM 1
