@@ -1,5 +1,12 @@
 /*
     A number is called strong if it is equal to sum of factorial of its digits is equal to number itself. For example, the 145 is strong number because 145 = 1!+4!+5!. Write a C program that reads a number and tests whether it is strong or not
+
+    Used Variables:
+    n       input number
+    orgN    hold original input number
+    i       decrement for factorial
+    f       factorial of given number
+    s       sum
 */
 
 #include <stdio.h>

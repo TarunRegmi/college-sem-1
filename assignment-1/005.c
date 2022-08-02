@@ -1,5 +1,11 @@
 /*
     Write a C program to convert decimal number into binary number.
+
+    Used Variables:
+    decimal     Entared decimal number
+    tmp         tempory binary number
+    base        base for any iteration
+    binary      final binary value
 */
 
 #include <stdio.h>

@@ -1,4 +1,11 @@
-// Write C program that prints first 20 Fibonacci numbers.
+/*
+    Write C program that prints first 20 Fibonacci numbers.
+
+    Used Variables:
+    pre0        n-2'th term
+    pre1        n-1'th term
+    tn          n'th term
+*/
 
 #include <stdio.h>
 int main() {

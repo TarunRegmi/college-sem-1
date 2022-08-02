@@ -1,4 +1,12 @@
-// Write a program that finds sum of the series 1+2+4+8+…….. up to n terms using while loop
+/*
+    Write a program that finds sum of the series 1+2+4+8+…….. up to n terms using while loop
+
+    Used Variables:
+    n       toal number of term in given series
+    p       power for particular term
+    tn      nth term
+    sum     total sum of given series
+*/
 
 #include <stdio.h>
 int main() {
