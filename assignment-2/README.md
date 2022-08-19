@@ -7,4 +7,5 @@
 6. [Write a C program that reads N numbers in an array and then find prime numbers in that array.](https://github.com/TarunRegmi/college-sem-1/blob/main/assignment-2/006.c)
 7. [Write a C program that reads ‘N’ numbers and sort them in ascending order.](https://github.com/TarunRegmi/college-sem-1/blob/main/assignment-2/007.c)
 8. [Two numbers are called twin prime if they are prime and their difference is no more than 2. Write a C program reads ‘N’ numbers in an array and check whether the array contains twin primes or not](https://github.com/TarunRegmi/college-sem-1/blob/main/assignment-2/008.c)
-10. [Write a C program that reads a line of texts and find number of words and spaces](https://github.com/TarunRegmi/college-sem-1/blob/main/assignment-2/009.c)
+9. [Write a C program that reads two words and concatenate them](https://github.com/TarunRegmi/college-sem-1/blob/main/assignment-2/009.c)
+10. [Write a C program that reads a line of texts and find number of words and spaces](https://github.com/TarunRegmi/college-sem-1/blob/main/assignment-2/010.c)
