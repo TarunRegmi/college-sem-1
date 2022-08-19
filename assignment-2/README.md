@@ -1,0 +1,10 @@
+## Asignment-2
+1. [Write a C program to read a character array in inputs as “TRIBHUVAN UNIVERSITY” from the user and find out how many times a character “I” occur in that array?](https://github.com/TarunRegmi/college-sem-1/blob/main/assignment-2/001.c)
+2. [Write a C program to find sum and product of two 3*3 matrices](https://github.com/TarunRegmi/college-sem-1/blob/main/assignment-2/002.c)
+3. [Write a C program to test whether the given string is palindrome or not without using string handling function](https://github.com/TarunRegmi/college-sem-1/blob/main/assignment-2/003.c)
+4. [Write a C program that reads a 3*3 matrix and finds the sum of diagonal elements and non-diagonal elements](https://github.com/TarunRegmi/college-sem-1/blob/main/assignment-2/004.c)
+5. [Write a C program that reads N numbers in an array and then find the largest and smallest element](https://github.com/TarunRegmi/college-sem-1/blob/main/assignment-2/005.c)
+6. [Write a C program that reads N numbers in an array and then find prime numbers in that array.](https://github.com/TarunRegmi/college-sem-1/blob/main/assignment-2/006.c)
+7. [Write a C program that reads ‘N’ numbers and sort them in ascending order.](https://github.com/TarunRegmi/college-sem-1/blob/main/assignment-2/007.c)
+8. [Two numbers are called twin prime if they are prime and their difference is no more than 2. Write a C program reads ‘N’ numbers in an array and check whether the array contains twin primes or not](https://github.com/TarunRegmi/college-sem-1/blob/main/assignment-2/008.c)
+10. [Write a C program that reads a line of texts and find number of words and spaces](https://github.com/TarunRegmi/college-sem-1/blob/main/assignment-2/009.c)
