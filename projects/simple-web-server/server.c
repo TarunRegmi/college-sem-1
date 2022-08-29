@@ -83,6 +83,7 @@ int main() {
 
     // accept any incoming connection with the accept() function:
     printf("Wating for connection...\n");
+    printf("Open your web browser and type the following URL:\n\tlocalhost:8080 or\n\t127.0.0.1:8080\n\n");
     struct sockaddr_storage client_address;
     socklen_t client_len = sizeof(client_address);
     SOCKET socket_client = accept(socket_listen, (struct sockaddr*) &client_address, &client_len);
