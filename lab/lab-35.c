@@ -1,7 +1,7 @@
 /*
     Lab: 35
     Date: 2079-04-03
-    C program that reads ‘N’ numbers and sort them in ascending order..
+    C program that reads ‘N’ numbers and sort them in ascending order.
 */
 
 #include <stdio.h>
